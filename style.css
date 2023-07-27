@@ -157,8 +157,18 @@ align-items: center;
   /* ---------------- */
   .section-part-1A p{
     font-weight: 700;
-    font-size: 25px;
+    font-size: 30px;
+   
   }
+
+
+  .section-part-1A {
+    /* justify-content: center;
+    align-items: center;
+    text-align: center; */
+    margin: 0 auto;
+  }
+  
 
 
 
